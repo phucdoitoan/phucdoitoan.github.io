@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Luu Huu Phuc"
-  avatar           : "phucdoitoan.png"
+  avatar           : "https://phucdoitoan.github.io/images/phucdoitoan.JPG"
   bio              : "CS/ML Master Student, Graduate School of Informatics, Kyoto University"
   location         : "Kyoto, Japan"
   employer         :
