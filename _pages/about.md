@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Master Student in the [Kashima-Yamada Laboratory](http://www.ml.ist.i.kyoto-u.ac.jp/en/), [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en), advised by Prof. [Hisashi Kashima](https://hkashima.github.io/index_e.html). 
+* I am a Master student in the [Kashima-Yamada Lab](http://www.ml.ist.i.kyoto-u.ac.jp/en/) at Graduate School of Informatics, Kyoto University, advised by Prof. [Hisashi Kashima](https://hkashima.github.io/index_e.html). 
 * My research interests lie in the general field of machine learning, particularly the applications of optimal transport in graph mining.
 * I recieved my Bachelor's Degree in Informatics and Mathematical Science at Kyoto University, under the same supervision of Prof. Hisashi Kashima.
 
