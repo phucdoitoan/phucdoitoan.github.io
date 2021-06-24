@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<br>
+<b>[Inter-domain Multi-relational Link Prediction]()</b> <br>
+<b>Luu Huu Phuc</b>, Koh Takeuchi, Seiji Okajima, Arseny Tolmachev, Tomoyoshi Takebayashi, Koji Maruhashi, Hisashi Kashima.
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<br>
+<b>[Simultaneous Link Prediction on Unaligned Networks Using Graph Embedding and Optimal Transport]()</b> <br>
+<b>Luu Huu Phuc</b>, Koh Takeuchi, Makoto Yamada, Hisashi Kashima.
+<i>IEEE International Conference on Data Science and Advanced Analytics</i>. <b>IEEE DSAA 2020</b>.
