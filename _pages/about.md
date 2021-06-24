@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/iamges/phucdoitoan.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://lantaoyu.github.io/images/phucdoitoan.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
